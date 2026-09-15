@@ -1,0 +1,7 @@
+R101|Study Room 101|Study Room|1
+R102|Study Room 102|Study Room|0
+R103|Study Room 103|Study Room|1
+L001|Dell Laptop 1|Laptop|1
+L002|Dell Laptop 2|Laptop|0
+C001|TI-84 Calculator|Calculator|1
+C002|TI-84 Calculator|Calculator|1
